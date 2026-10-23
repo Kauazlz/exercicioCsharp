@@ -1,0 +1,14 @@
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\bin\Debug\net10.0\condicoes.exe
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\bin\Debug\net10.0\condicoes.deps.json
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\bin\Debug\net10.0\condicoes.runtimeconfig.json
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\bin\Debug\net10.0\condicoes.dll
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\bin\Debug\net10.0\condicoes.pdb
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\condicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\condicoes.AssemblyInfoInputs.cache
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\condicoes.AssemblyInfo.cs
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\condicoes.csproj.CoreCompileInputs.cache
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\condicoes.dll
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\refint\condicoes.dll
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\condicoes.pdb
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\condicoes.genruntimeconfig.cache
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\condicoes\condicoes\obj\Debug\net10.0\ref\condicoes.dll
