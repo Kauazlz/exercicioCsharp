@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50463894871\\Documents\\Ex_senai_condicao\\Ex_senai\\ex_senai_condicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB50E6C-32DD-474A-8215-90BB3A424EA9}|ex_senai_condicao\\ex_senai_condicao.csproj|c:\\users\\50463894871\\documents\\ex_senai_condicao\\ex_senai\\ex_senai_condicao\\ex_senai_condicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB50E6C-32DD-474A-8215-90BB3A424EA9}|ex_senai_condicao\\ex_senai_condicao.csproj|solutionrelative:ex_senai_condicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50463894871\\Documents\\Ex_senai_condicao\\Ex_senai\\ex_senai_condicao\\ex_senai_condicao\\Program.cs",
+              "RelativeDocumentMoniker": "ex_senai_condicao\\Program.cs",
+              "ToolTip": "C:\\Users\\50463894871\\Documents\\Ex_senai_condicao\\Ex_senai\\ex_senai_condicao\\ex_senai_condicao\\Program.cs",
+              "RelativeToolTip": "ex_senai_condicao\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAtwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:09:43.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
